@@ -1,2 +1,2 @@
 # web-scraping
-Web scraping traning
+Web scraping trianing
